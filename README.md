@@ -27,8 +27,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Url](https://www.frontendmentor.io/solutions/testimonials-grid-section-p1cMtddvTS)
+- Live Site URL: [Live SIte](https://varsha-viu.github.io/Testimonial-grid-section/)
 
 ## My process
 
